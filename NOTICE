@@ -1,0 +1,82 @@
+SmartMemo
+Copyright (C) 2026 hannanlsa
+
+This product includes software developed by hannanlsa.
+
+================================================================================
+1. THIRD-PARTY COMPONENTS
+================================================================================
+
+The SmartMemo project may include or depend on the following third-party
+open-source components. Each is used under its own licence. The full
+licence text for each is preserved in the source tree.
+
+(Components will be listed here as they are added during development.
+This section is intentionally generic to avoid advertising a specific
+stack before the build is finalised.)
+
+================================================================================
+2. NO AFFILIATION
+================================================================================
+
+SmartMemo is an independent, open-source project. It is not affiliated
+with, endorsed by, sponsored by, or associated with any third-party
+software vendor. References to any product, service, or vendor in this
+repository are made for descriptive purposes only and do not imply
+endorsement.
+
+================================================================================
+3. NO TRADEMARK LICENSE
+================================================================================
+
+No licence, express or implied, to any third party's trademarks,
+service marks, logos, or trade dress is granted by this project. All
+such marks remain the property of their respective owners.
+
+================================================================================
+4. EXPORT CONTROL
+================================================================================
+
+SmartMemo uses only standard, public, on-device AI inference
+techniques (model files in standard formats, standard neural-network
+runtimes). It does not contain cryptographic code beyond what is
+required for the platform's standard TLS / certificate validation,
+and it does not contain any controlled-technology items under
+the U.S. EAR or equivalent regulations.
+
+If you are a user in a jurisdiction that restricts the import or use
+of accessibility or speech-recognition software, you are responsible
+for determining the legality of your use.
+
+================================================================================
+5. NO COMMERCIAL USE BY THE PROJECT
+================================================================================
+
+The SmartMemo project, as distributed from this repository, does not
+charge for access, does not display advertising, does not accept
+donations, does not sell user data, and does not maintain a customer
+relationship with any end-user.
+
+Any commercial activity observed "around" SmartMemo (paid courses,
+paid support contracts, branded merchandise, "premium" builds) is
+**not** part of this project. Such activity is the responsibility of
+its operator, not of `hannanlsa`.
+
+================================================================================
+6. CONTACT
+================================================================================
+
+For project-related questions (not legal threats, not DMCA, not
+law-enforcement requests), open an issue on
+https://github.com/hannanlsa/SmartMemo/issues
+
+For security disclosures, see SECURITY.md.
+For contribution rules, see CONTRIBUTING.md and CLA.md.
+For legal posture, see LEGAL.md and DISCLAIMER.md.
+For the threat model, see THREAT_MODEL.md.
+
+================================================================================
+7. CHANGE LOG OF THIS NOTICE
+================================================================================
+
+- 2026-06-18: Initial version. Author: hannanlsa.

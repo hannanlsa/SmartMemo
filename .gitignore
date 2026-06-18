@@ -1,0 +1,68 @@
+# Build artefacts
+build/
+.gradle/
+.idea/
+*.iml
+*.apk
+*.aab
+*.aar
+*.jar
+*.class
+*.dex
+*.so
+*.o
+*.obj
+*.lib
+*.dll
+*.dylib
+*.exe
+*.bin
+*.log
+local.properties
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.fleet/
+*.swp
+*.swo
+*~
+
+# Python (if any tooling lives in this repo)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if any tooling lives in this repo)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Large model files (downloaded at build time, not committed)
+models/
+*.onnx
+*.tflite
+*.bin
+*.gguf
+*.pt
+*.pb
+
+# Test reports / coverage
+test-output/
+coverage/
+*.html
+*.xml
+!LICENSE
+!NOTICE
+
+# Do NOT commit secrets, even by accident
+*.env
+*.env.local
+google-services.json
+firebase-service-account*.json
